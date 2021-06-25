@@ -1,13 +1,9 @@
 Lorem ipsum dolor sit amet,
-Yonatans Edit
 consectetuer adipiscing elit.
- commodo ligula eget dolor.
- massa.AKIVA MAKING SOME MORE CHANAGES BLABALBALAL
+Aenean commodo ligula eget dolor.
+Aenean massa.
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
-EDIT ex5 q 10
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-
-Some more changes to make another push
